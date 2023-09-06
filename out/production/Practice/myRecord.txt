@@ -1,0 +1,5 @@
+Finished
+0
+enemy 20 140 2
+enemy 650 410 3
+enemy 350 290 1
